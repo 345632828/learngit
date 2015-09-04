@@ -1,0 +1,5 @@
+*{margin:0;border:0;padding:0;}
+ul{list-style:none;}
+#debug{width:300px;position:absolute;top:0;background:#000;color:#F08047;}
+#debug li{float:left;padding:3px 5px;border-left:1px solid #fff;}
+#debug li b{text-indent:1em;}
